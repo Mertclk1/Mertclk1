@@ -1,15 +1,17 @@
-
-
-
-<h1 align="center">Hi 👋, I'm H.Mert ÇELİK</h1>
-<h3 align="center">A passionate .Net developer from Turkey</h3>
+[![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)]
+<h2 align="center">Hi 👋, I'm H.Mert ÇELİK</h2>
+<h4 align="center">A passionate .Net developer from Turkey</h4>
 <img align="right" alt="Coding" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertclk1&label=Profile%20views&color=0e75b6&style=flat" alt="mertclk1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hmertclik" target="blank"><img src="https://img.shields.io/twitter/follow/hmertclik?logo=twitter&style=for-the-badge" alt="hmertclik" /></a> </p>
 
+- 🔭 I’m currently working on **Api Project**
+
 - 🌱 I’m currently learning **mobile coding**
+
+- 💬 Ask me about **.Net Core and Android**
 
 - 📫 How to reach me **hmert.clk@gmail.com**
 
